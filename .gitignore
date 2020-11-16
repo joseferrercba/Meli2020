@@ -1,0 +1,7 @@
+__pycache__/*
+.ipynb_checkpoints/*
+test_dataset.jl.gz
+train_dataset.jl.gz
+item_data.jl.gz
+.gitattributes
+submission.csv
